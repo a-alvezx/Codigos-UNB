@@ -1,0 +1,3 @@
+4. {
+    O código recebe dois números inteiros e inicia um laço de repetição que incrementa o primeiro valor até chegar a 12. Dentro desse ciclo principal, ele executa uma verificação matemática comparando restos de divisão três vezes a cada rodada; dependendo do resultado dessa comparação, ele imprime os valores na tela e, quando a condição falha, altera o valor da segunda variável para afetar os cálculos das próximas iterações.
+}
